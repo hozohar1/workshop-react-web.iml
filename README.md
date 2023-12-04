@@ -1,5 +1,5 @@
 # Demo web server using React and FastAPI
-![logo-no-background](https://github.com/hozohar1/workshop-react-web.iml/assets/116975069/dd0916d3-0917-4700-b9d9-a6b9efdfde20)
+<img src="https://github.com/hozohar1/workshop-react-web.iml/assets/116975069/dd0916d3-0917-4700-b9d9-a6b9efdfde20" alt="logo-no-background" width="200"/>
 ## Prerequisites
 
 - Python 3.8+ and pip
